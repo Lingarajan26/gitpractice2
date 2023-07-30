@@ -1,4 +1,5 @@
 ## this is the BODMAS calculations file
 
-def add(A,b):
+def add(a,b):
     return a+b
+
